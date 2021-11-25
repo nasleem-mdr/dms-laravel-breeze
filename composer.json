@@ -30,7 +30,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "KUI\\Breeze\\KUIBreezeServiceProvider"
+        "DMS\\Breeze\\KUIBreezeServiceProvider"
       ]
     }
   },
