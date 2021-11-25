@@ -1,10 +1,10 @@
 <?php
 
-namespace KUI\Breeze;
+namespace DMS\Breeze;
 
 use Illuminate\Support\ServiceProvider;
 
-class KUIBreezeServiceProvider extends ServiceProvider
+class DMSBreezeServiceProvider extends ServiceProvider
 {
     public function boot()
     {
