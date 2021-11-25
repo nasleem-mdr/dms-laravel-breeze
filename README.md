@@ -27,13 +27,13 @@ php artisan breeze:install blade
 3. Install kamona/kui-laravel-breeze
 
 ```sh
-composer require kamona/kui-laravel-breeze --dev
+composer require nasleem/dms-laravel-breeze --dev
 
 # after finish run this command
 
-php artisan kui-breeze:replace blade
+php artisan dms-breeze:replace blade
 # available stacks (blade,vue). react will be added soon.
-# So if you run `php artisan breeze:install vue` you can run `php artisan kui-breeze:replace vue`
+# So if you run `php artisan breeze:install vue` you can run `php artisan dms-breeze:replace vue`
 
 # then
 npm install && npm run dev # or yarn && yarn dev
