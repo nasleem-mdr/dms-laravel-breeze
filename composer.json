@@ -24,7 +24,7 @@
   },
   "autoload": {
     "psr-4": {
-      "KUI\\Breeze\\": "src/"
+      "DMS\\Breeze\\": "src/"
     }
   },
   "extra": {
