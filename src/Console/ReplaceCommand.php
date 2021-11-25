@@ -130,7 +130,8 @@ class ReplaceCommand extends Command
         copy(__DIR__ . '/../../stubs/vue/css/app.css', resource_path('css/app.css'));
         copy(__DIR__ . '/../../stubs/vue/js/app.js', resource_path('js/app.js'));
         copy(__DIR__ . '/../../stubs/vue/.babelrc', base_path('.babelrc'));
-
+        
+        $this->requireComposerPackages('blade-ui-kit/blade-heroicons:^1.2');
         $this->info('Breeze scaffolding replaced successfully.');
         $this->comment('Please execute the "npm install && npm run dev" command to build your assets.');
     }
