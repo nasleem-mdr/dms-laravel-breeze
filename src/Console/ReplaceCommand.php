@@ -1,6 +1,6 @@
 <?php
 
-namespace KUI\Breeze\Console;
+namespace DMS\Breeze\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
