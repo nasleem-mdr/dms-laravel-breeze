@@ -1,5 +1,5 @@
 {
-  "name": "kamona/kui-laravel-breeze",
+  "name": "nasleem/dms-laravel-breeze",
   "description": "Different UI for laravel/breeze",
   "keywords": [
     "laravel",
@@ -10,11 +10,11 @@
     "dashboard"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/Kamona-WD/kui-laravel-breeze",
+  "homepage": "https://github.com/nasleem-mdr/dms-laravel-breeze",
   "authors": [
     {
-      "name": "Kamona-WD",
-      "email": "ak3849909@gmail.com",
+      "name": "Nasleem MDR",
+      "email": "nasleemmad@gmail.com",
       "role": "Developer"
     }
   ],
