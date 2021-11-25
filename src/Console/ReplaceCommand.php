@@ -13,7 +13,7 @@ class ReplaceCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'kui-breeze:replace {stack=blade : The development stack that should be replaced (blade,react,vue)}
+    protected $signature = 'dms-breeze:replace {stack=blade : The development stack that should be replaced (blade,react,vue)}
                             {--composer=global : Absolute path to the Composer binary which should be used to install packages}';
 
     /**
